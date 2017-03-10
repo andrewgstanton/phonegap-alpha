@@ -1,2 +1,4 @@
-# phonegap-alpha
-This is a sample (cross-platform) mobile app used by phone-gap that can be built for both ios and android mobile devices
+# PhoneGap Day Wikitude AR Demo
+Simply launch this project through the PhoneGap Developer App (1.7.0 and higher) and
+camera over the PhoneGap Day EU T-Shirt to see a cool demo!
+
